@@ -16,7 +16,7 @@
 <body>
     <nav class="navbar is-transparent" role="navigation" aria-label="main navigation">
       <div class="container">
-        <div class="navbar-brand"><a class="navbar-item" href="index.html"><i class="fa-solid fa-l"></i><i class="fa-solid fa-s"></i></a><a class="navbar-burger" role="button" aria-label="menu" aria-expanded="false" data-target="#navMenu"><span aria-hidden="true"></span><span aria-hidden="true"></span><span aria-hidden="true"></span></a></div>
+        <div class="navbar-brand"><a class="navbar-item" href="/"><i class="fa-solid fa-l"></i><i class="fa-solid fa-s"></i></a><a class="navbar-burger" role="button" aria-label="menu" aria-expanded="false" data-target="#navMenu"><span aria-hidden="true"></span><span aria-hidden="true"></span><span aria-hidden="true"></span></a></div>
         <div class="navbar-menu" id="navMenu">
           <div class="navbar-start"></div>
           
@@ -37,7 +37,7 @@
         </div>
       </div>
       <div class="hero-foot">
-        <div class="container"><img class="is-bottom" src="images/pcs.png" alt="pcs"></div>
+        <div class="container"><img class="is-bottom" src="images/pcs.png"></div>
       </div>
     </section>
     <section class="section is-medium is-primary has-text-centered is-long">
@@ -59,7 +59,7 @@
           <div class="content">
             <div class="columns is-centered">
               <div class="column">
-                <figure class="image"><img class="is-skill-icon" alt="icons" ><i class="fa-solid fa-compass-drafting fa-4x"></i></figure>
+                <figure class="image"><img class="is-skill-icon" ><i class="fa-solid fa-compass-drafting fa-4x"></i></figure>
                 <h1 class="title is-size-4 is-spaced">Designer</h1>
                 <p>I value simple content structure, clean design patterns, and thoughtful interactions.</p>
                 <p class="list-title has-text-primary has-text-weight-normal">Things I enjoy designing:</p>
@@ -73,7 +73,7 @@
                    </ul>
               </div>
               <div class="column">
-                <figure class="image"><img class="is-skill-icon" alt="icons"><i class="fa-solid fa-code fa-4x"></i></figure>
+                <figure class="image"><img class="is-skill-icon" ><i class="fa-solid fa-code fa-4x"></i></figure>
                 <h1 class="title is-size-4 is-spaced">Front-end Developer</h1>
                 <p>I like to code things from scratch, and enjoy bringing ideas to life in the browser.</p>
                 <p class="list-title has-text-primary has-text-weight-normal">Languages I speak:</p>
@@ -89,7 +89,7 @@
                 </ul>
               </div>
               <div class="column"> 
-                <figure class="image"><img class="is-skill-icon" alt="icon skill"><i class="fa-solid fa-person-chalkboard fa-4x "></i></figure>
+                <figure class="image"><img class="is-skill-icon"><i class="fa-solid fa-person-chalkboard fa-4x "></i></figure>
                 <h1 class="title is-size-4 is-spaced">Mentor</h1>
                 <p>I genuinely care about people, and love helping fellow designers work on their craft.</p>
                 <p class="list-title has-text-primary has-text-weight-normal">Experiences I draw from:</p>
@@ -111,7 +111,7 @@
     <section class="section projects is-medium is-white has-text-centered">
       <div class="container is-narrow">
         <h1 class="title is-spaced is-size-3-desktop is-size-4-mobile">My Recent Work</h1>
-        <h2 class="subtitle is-size-5-desktop">Here are a few design projects I've worked on recently. Want to see more? <a href="contact.html">Email me</a>.</h2>
+        <h2 class="subtitle is-size-5-desktop">Here are a few design projects I've worked on recently. Want to see more? <a href="#">Email me</a>.</h2>
         <div class="project-grid">  
           <div class="columns is-multiline is-mobile">
             <div class="column is-12-mobile is-half-tablet is-one-third-desktop">
@@ -123,7 +123,7 @@
               </figure>
             </div>
             <div class="column is-12-mobile is-half-tablet is-one-third-desktop"> 
-              <figure class="image is-3by2"><img class="project-thumb" alt="barbershop" src="images/Barbershop.png">
+              <figure class="image is-3by2"><img class="project-thumb" src="images/Barbershop.png">
                 <figcaption>
                   <h1 class="title is-size-5 is-size-4-widescreen">Guber's Barbershop - A popular barbershop in Brazil.</h1><a class="button is-primary is-outlined is-rounded" href="https://sardanhaluciano9690.github.io/guber_barbershop/" target="_blank"><span>Visit Website</span><span class="icon"><i class="fas fa-angle-right"></i></span></a>
                 </figcaption>
@@ -131,7 +131,7 @@
               </figure>
             </div>
             <div class="column is-12-mobile is-half-tablet is-one-third-desktop">
-              <figure class="image is-3by2"><img class="project-thumb" alt="album" src="images/album.png">
+              <figure class="image is-3by2"><img class="project-thumb" src="images/album.png">
                 <figcaption>
                   <h1 class="title is-size-5 is-size-4-widescreen">A simple ambum of photos.</h1><a class="button is-primary is-outlined is-rounded" href="https://sardanhaluciano9690.github.io/DaviPhotosSlides/" target="_blank"><span>Visit Website</span><span class="icon"><i class="fas fa-angle-right"></i></span></a>
                 </figcaption>
@@ -317,7 +317,7 @@
       </div>
     </section>
     <footer class="section is-primary is-small has-text-centered">
-      <div class="container is-narrow"><a class="logo" href="index.html"><i class="fa-solid fa-l fa-2x" style="color: white;"></i><i class="fa-solid fa-s fa-2x" style="color: white;" ></i></a>
+      <div class="container is-narrow"><a class="logo" href="/"><i class="fa-solid fa-l fa-2x" style="color: white;"></i><i class="fa-solid fa-s fa-2x" style="color: white;" ></i></a>
         <div class="columns is-centered"> 
           <div class="column is-one-third">
             <h1 class="title is-size-4-touch">Always learning and coding...</h1>
